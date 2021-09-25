@@ -1,0 +1,31 @@
+.container{
+    background-color: lightskyblue;
+    text-align: center;
+}
+.row{
+    background-color: white;
+
+}
+.Caixa_titulo{
+    border: solid 1px lightsalmon;
+    font-size: 20px;
+
+}
+.Caixa_conteudo{
+    border: solid 1px lightsalmon;
+    font-size: 20px;
+    height: 300px;
+
+}
+.Caixa_formulario{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.form-control{
+    width: 100% !important;
+}
+.btn-primary{
+    background-color: blue;
+    
+}
