@@ -1,0 +1,24 @@
+.caixa_bege{
+    border: solid 3px peru;
+    background-color: papayawhip;
+    font-size: 20px;
+    height: 70px;
+
+}
+.caixa_blue{
+    border: solid 3px blue;
+    background-color: lightskyblue;
+    font-size: 20px;
+    height: 50px;
+
+}
+
+.caixa_green{
+    border: solid 3px green;
+    background-color: limegreen;
+    font-size: 20px;
+    height: 30px;
+    
+
+}
+
