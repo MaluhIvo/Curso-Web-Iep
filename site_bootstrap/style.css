@@ -1,0 +1,50 @@
+.container-fluid{
+
+    padding:0%;
+}
+
+.row{
+    
+    --bs-gutter-x: 0rem;
+}
+.sessao_cinza{
+
+    background-color:#f7f7f7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sessao_colorida{
+
+    background-color:rgb(250, 114, 182);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.caixa_servico{
+
+    background-color:pink;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+
+}
+.card-img-top{
+    min-height: 200px;
+    max-height: 200px;
+}
+
+.btn-primary{
+    background-color: salmon !important;
+    border: solid 1px pink !important;
+
+}
+
+
+.btn-primary:hover{
+    background-color: salmon !important;
+    border: solid 1px pink !important;
+    opacity: 80%;
+
+}
