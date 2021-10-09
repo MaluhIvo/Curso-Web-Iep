@@ -1,0 +1,55 @@
+.container-fluid{
+
+    padding:0%;
+    text-align: center;
+}
+
+.row{
+    background-color: wheat;
+    text-align: center;
+}
+.sessao_colorida{
+    
+    background-color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    border: solid 2px black;
+
+}
+.caixa_servico_esquerda{
+    margin: 10px;
+    background-color: lightsteelblue;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: left;
+
+}
+
+.caixa_servico_direita{
+    margin: 10px;
+    background-color: lightsteelblue;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: right;
+
+}
+
+@media (max-width: 768px){
+
+
+    .caixa_servico_direita{
+        text-align: center;
+        display: none;
+    }
+    .caixa_servico_esquerda{
+        text-align: center;
+    }
+
+}
+
+
