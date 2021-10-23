@@ -1,0 +1,31 @@
+/*TAMANHO DAS IMAGENS*/
+
+.banner_padrao{
+    height: 400px !important;
+    object-fit: fill;
+}
+
+/*LEGENDAS*/
+
+.carousel-caption{
+    background-color: burlywood;
+    opacity: 70%;
+    width: 100%;
+    left: 0% !important;
+    bottom: 0% !important;
+}
+
+/*MUDAR A COR DOS BOTÕES*/
+
+.btn-primary{
+
+    background-color: chocolate !important ;
+    border: solid 1px chocolate !important;
+    
+}
+
+.btn-primary:hover{
+
+    background-color: darkgoldenrod !important;
+
+}
